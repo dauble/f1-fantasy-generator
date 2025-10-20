@@ -2,7 +2,7 @@
 
 A retro-themed Formula 1 fantasy draft picker that displays real-time driver stats from the OpenF1 API to help you build the ultimate team.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dauble/f1-fantasy-generator)
 
 ApexDraft is a Formula 1 fantasy draft assistant with a unique retro-futuristic aesthetic. It leverages the OpenF1.org API to provide users with up-to-date driver statistics, helping them make informed decisions for their fantasy league. The application features a main dashboard displaying all current drivers in visually distinct cards, a personal 'Draft Board' to manage selections, and a 90s hacker-inspired visual theme.
 
@@ -82,4 +82,4 @@ This application is designed to be deployed to Cloudflare's global network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dauble/f1-fantasy-generator)
